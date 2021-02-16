@@ -1,8 +1,8 @@
 [Desktop Entry]
 Categories=Settings;Network;
-Name=networkmanager_dmenu
+Name=networkmanager_bemenu
 GenericName=Networkmanager Settings
-Exec=networkmanager_dmenu
+Exec=networkmanager_bemenu
 Type=Application
 
 
